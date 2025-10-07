@@ -5,7 +5,7 @@
 ### 💻 C++ & Python Developer
 
 [![Email](https://img.shields.io/badge/Email-joukol287%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joukol287@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sile350)
 
 </div>
 
@@ -118,11 +118,11 @@ Hello! I'm **Vladimir** — a developer with experience in system programming an
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sile350&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sile350&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sile350&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
@@ -217,21 +217,11 @@ Always open to interesting projects and collaboration!
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
 ## 📈 Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sile350&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
 
 </div>
 
@@ -245,12 +235,12 @@ Always open to interesting projects and collaboration!
 
 ### 👀 Profile Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sile350/count.svg)
 
 ---
 
 **"Code is like humor. When you have to explain it, it's bad." — Cory House**
 
-⭐️ From [Vladimir](https://github.com/)
+⭐️ From [Vladimir](https://github.com/sile350)
 
 </div>
