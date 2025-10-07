@@ -233,10 +233,6 @@ Always open to interesting projects and collaboration!
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👀 Profile Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/sile350/count.svg)
-
 ---
 
 **"Code is like humor. When you have to explain it, it's bad." — Cory House**
